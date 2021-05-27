@@ -6,3 +6,6 @@ We trained the model on 5000 videos for two days on GeForce GTX 1080 graphics ca
 ##Model2
 The model2.py contains the mask learnable 2D cnn Model.  
 
+#Note:  
+For model1 use extract_train.py, for model2 use extract_oneframe.py  
+
